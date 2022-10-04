@@ -1,0 +1,13 @@
+.root{
+    direction: rtl;
+    margin: 0 auto;
+    background-color: black;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.container-content{
+    padding: 0 10px;
+    margin: 0 auto;
+}

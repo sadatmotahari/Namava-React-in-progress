@@ -1,0 +1,14 @@
+.star-boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.star-image img{
+    border-radius: 73px;
+    width: 150px;
+    height: 150px;
+}
+.star-content{
+    color: #ffff;
+}
